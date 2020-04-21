@@ -15,6 +15,7 @@
 		34DE56D1243C67C80045932B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34DE56CF243C67C80045932B /* LaunchScreen.storyboard */; };
 		34DE56DC243C67C80045932B /* iHealthNoteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DE56DB243C67C80045932B /* iHealthNoteTests.swift */; };
 		34DE56E7243C67C90045932B /* iHealthNoteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DE56E6243C67C90045932B /* iHealthNoteUITests.swift */; };
+		34DE56F5244EDF0D0045932B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DE56F4244EDF0D0045932B /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		34DE56E2243C67C80045932B /* iHealthNoteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iHealthNoteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		34DE56E6243C67C90045932B /* iHealthNoteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iHealthNoteUITests.swift; sourceTree = "<group>"; };
 		34DE56E8243C67C90045932B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34DE56F4244EDF0D0045932B /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				34DE56CD243C67C80045932B /* Assets.xcassets */,
 				34DE56CF243C67C80045932B /* LaunchScreen.storyboard */,
 				34DE56D2243C67C80045932B /* Info.plist */,
+				34DE56F4244EDF0D0045932B /* MainViewController.swift */,
 			);
 			path = iHealthNote;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				34DE56C9243C67C40045932B /* ViewController.swift in Sources */,
 				34DE56C5243C67C40045932B /* AppDelegate.swift in Sources */,
 				34DE56C7243C67C40045932B /* SceneDelegate.swift in Sources */,
+				34DE56F5244EDF0D0045932B /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
